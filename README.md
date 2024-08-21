@@ -1,8 +1,8 @@
 ### Programadores Kids 
 
-`PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`20XX - Semestre XX`
+`PUC Poços de Caldas - Ciência da Computação`
+`Disciplina: Mentoring II - Sociedade Digital `
+`2024 - 2º Semestre `
 
 ## Integrantes
 
