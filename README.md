@@ -13,7 +13,7 @@
 
 ## Professor
 
-- Prof Loira
+- Prof Luciana de Nardin
 
 # Documentação
 
