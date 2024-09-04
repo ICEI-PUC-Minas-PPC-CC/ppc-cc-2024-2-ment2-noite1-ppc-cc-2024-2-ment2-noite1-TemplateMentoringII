@@ -9,6 +9,8 @@
 
 - Lucas Schimidt
 - Otávio Araújo
+- Rafael Milani
+- Caetano Florencio
 
 ## Professor
 
