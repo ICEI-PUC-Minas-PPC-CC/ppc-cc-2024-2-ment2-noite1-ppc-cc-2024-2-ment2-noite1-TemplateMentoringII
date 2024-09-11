@@ -31,5 +31,17 @@ Hobbies e História: Maria gosta de ler e está sempre pesquisando sobre carreir
 
 ## Histórias de Usuários
 
+Persona 1: João Pedro Silva
+
+Eu como João Pedro quero aprender a programar através de jogos e atividades interativas para tornar o aprendizado mais divertido e interessante.
+Eu, como João Pedro, preciso de acesso fácil a tutoriais e exemplos práticos de programação para entender como os conceitos aprendidos nas aulas podem ser aplicados na criação de jogos simples.
+Eu como João Pedro gostaria de ter mais tempo de acesso a computadores na escola para poder praticar mais a programação, já que em casa eu não tenho computador.
+
+Persona 2: Maria Fernanda Costa
+
+Eu como Maria Fernanda quero aprender a programar para me preparar para futuras oportunidades na área de tecnologia para conseguir ingressar em uma universidade e conquistar um bom emprego.
+Eu, como Maria Fernanda, preciso de um ambiente seguro e acessível para praticar programação para desenvolver confiança em minhas habilidades e entender melhor os conceitos de forma prática.
+Eu como Maria Fernanda gostaria de participar de projetos de programação em grupo para melhorar minhas habilidades de trabalho em equipe e aprender com outras pessoas.
+
 ### Artefatos para levantamento de dados
 
