@@ -1,12 +1,10 @@
-# Especificações do Projeto
+# Especificação do projeto:
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do diagrama de personas (identifiquem, no mínimo, 2 personas), histórias de usuários (identifiquem, no mínimo, 3 histórias de usuários por persona), requisitos funcionais, requisitos não funcionais e artefatos produzidos para levantamento de dados).
+Nesta parte da documentação, criamos três personas, com três problemas cada, a fim de visualizar a partir da própria dor do usuário, os problemas diários que podem necessitar de algum tipo de intervenção ou desenvolvimento de tecnologia.
 
 ## Personas
+Segue abaixo as três personas do projeto, e as ideias que podemos desenvolver a partir destes possíveis usuários. Cada persona tem três problemas.
 
-Exemplo:
 
 |**Camila Fiães**|           |                             | 
 |-------------------|-----------|-----------------------------|
