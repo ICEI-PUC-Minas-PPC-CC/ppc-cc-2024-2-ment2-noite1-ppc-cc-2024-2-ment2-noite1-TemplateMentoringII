@@ -39,8 +39,6 @@ A escolha do tema de ensino de programação para crianças e adolescentes de es
 
 Estudos mostram que o aprendizado de programação desde cedo pode melhorar significativamente o desempenho escolar em disciplinas como matemática e ciências, além de promover habilidades essenciais para o século XXI, como pensamento crítico e autonomia (VALENTE, 2017). Ao capacitar esses jovens com habilidades tecnológicas, estamos contribuindo para a formação de uma geração mais preparada para os desafios do mercado de trabalho e da cidadania digital.
 
-Público-Alvo:
-
 ## Público-Alvo
 
 O público-alvo do projeto são crianças e adolescentes entre 10 e 17 anos e alunos de escolas públicas ou particulares. Essas faixas etárias são particularmente receptivas ao aprendizado de novas habilidades e, ao serem expostas ao ensino de programação, têm a oportunidade de desenvolver competências essenciais, como resolução de problemas, pensamento crítico e criatividade. A inclusão digital é fundamental para preparar esses jovens para o futuro, conforme sugerido por autores como Valente (2017), que destaca a importância da tecnologia na formação educacional.
