@@ -1,11 +1,6 @@
 # Introdução
 
 Texto **descritivo** com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
-klsjfçsladkjfdsadasdfçlasjdfçlksadf
-saldçfjsaçljdfka
-sadfjsaldfkjasdf
-sadfsaldçfjkas
-sdajkfaçldfjsaç
 
 ## Problema
 A demanda crescente por habilidades tecnológicas no mercado de trabalho e na sociedade não é atendida por uma oferta adequada 
