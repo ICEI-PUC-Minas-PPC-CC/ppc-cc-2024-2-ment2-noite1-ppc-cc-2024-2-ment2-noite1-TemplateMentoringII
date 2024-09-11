@@ -1,6 +1,6 @@
 # Introdução
 
-Texto **descritivo** com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O projeto "Programadores Kids" tem como objetivo ensinar fundamentos de programação para crianças e adolescentes de escolas públicas. O projeto surge em um contexto onde a tecnologia está cada vez mais presente no cotidiano, transformando a forma como as pessoas trabalham, se comunicam e resolvem problemas. Contudo, muitos alunos de escolas públicas ainda não possuem acesso adequado à educação tecnológica, o que limita seu desenvolvimento. Assim, este projeto busca promover a inclusão digital, estimular o raciocínio lógico e capacitar os estudantes para interagir com o mundo digital de maneira ativa, ao invés de serem apenas consumidores de tecnologia.
 
 ## Problema
 A demanda crescente por habilidades tecnológicas no mercado de trabalho e na sociedade não é atendida por uma oferta adequada 
