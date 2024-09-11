@@ -16,9 +16,19 @@ inclusão digital.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho que será realizado pelo grupo indicando qual é o objetivo geral que se busca atingir para solucionar/minimizar o problema apresentado acima. 
+Objetivo Geral:
+Capacitar crianças e adolescentes de escolas públicas com conhecimentos básicos de programação, promovendo a inclusão digital e preparando-os para os desafios do futuro.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Objetivos Específicos:
+
+Ensinar os conceitos básicos de lógica de programação e algoritmos de maneiras acessíveis e interativas para os diferentes perfis de alunos das escolas públicas.
+Desenvolver atividades práticas que envolvem a criação de pequenos projetos em linguagens de programação voltadas para iniciantes, como Scratch e Python, conforme orientações de Campos (2019).
+Estimular o pensamento lógico e a resolução de problemas, incentivando o desenvolvimento de habilidades colaborativas e individuais, conforme estudos de Moura (2020).
+
+Justificativa
+A escolha do tema de ensino de programação para crianças e adolescentes de escolas públicas justifica a importância crescente da tecnologia na sociedade moderna. Segundo a UNESCO (2022), apenas uma pequena fração dos jovens em países em desenvolvimento tem acesso adequado à educação em tecnologia. Este projeto visa colmatar essa lacuna, oferecendo educação pública tecnológica de qualidade, especialmente em escolas, que muitas vezes carecem de recursos nesse campo (SANTOS, 2021).
+
+Estudos mostram que o aprendizado de programação desde cedo pode melhorar significativamente o desempenho escolar em disciplinas como matemática e ciências, além de promover habilidades essenciais para o século XXI, como pensamento crítico e autonomia (VALENTE, 2017). Ao capacitar esses jovens com habilidades tecnológicas, estamos contribuindo para a formação de uma geração mais preparada para os desafios do mercado de trabalho e da cidadania digital.
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
@@ -33,7 +43,7 @@ Público-Alvo:
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação ou se beneficiarão da ação extensionista, indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes/beneficiados ou quais serão os papéis dos usuários na aplicação/ação extensionista. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
+O público-alvo do projeto são crianças e adolescentes entre 10 e 17 anos e alunos de escolas públicas ou particulares. Essas faixas etárias são particularmente receptivas ao aprendizado de novas habilidades e, ao serem expostas ao ensino de programação, têm a oportunidade de desenvolver competências essenciais, como resolução de problemas, pensamento crítico e criatividade. A inclusão digital é fundamental para preparar esses jovens para o futuro, conforme sugerido por autores como Valente (2017), que destaca a importância da tecnologia na formação educacional.
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual.
 
