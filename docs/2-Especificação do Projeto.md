@@ -14,26 +14,25 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 ## Personas
 
-Exemplo:
+Personas
+Persona 1: João Pedro Silva
 
-|**Camila Fiães**|           |                             | 
-|-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 38 anos. **Naturalidade:** Contagem - Minas Gerais. **Ocupação:** Caixa de Supermercado.       |**Atribuições:** gerenciar operações com clientes usando caixas registradoras. 
-|**Motivações:** Deseja organizar e ter fácil acesso aos documentos médicos do seu filho que tem asma.  |**Frustações:** dificuldade para gerenciar a vida profissional e pessoal, pois, além de trabalhar fora, quando chega em casa tem de desempenhar os papeis de mãe, esposa e dona de casa. Ainda, o seu filho de 09 anos tem asma, portanto necessita de tratamento contínuo e atenção redobrada.   |**Hobbies, história:** almeja conseguir conciliar os diferentes papéis que exerce, pois atualmente está se sentindo extremamente sobrecarregada e por isso busca métodos para otimizar o seu tempo e esforço.
+Idade: 12 anos
+Naturalidade: São Paulo, SP
+Ocupação: Estudante do ensino fundamental em uma escola pública
+Atribuições: Participar das atividades escolares e extracurriculares. Responsável por fazer tarefas e aprender novos conteúdos.
+Motivações: João é curioso e gosta de tecnologia, especialmente videogames. Ele quer entender como os jogos são feitos e sonha em criar seus próprios jogos no futuro.
+Frustrações: João tem dificuldade em se concentrar nas aulas mais teóricas, pois acha o conteúdo muito distante do seu interesse por tecnologia. Ele também tem pouco acesso a computadores e Internet em casa, o que limita seu aprendizado.
+Hobbies e História: João adora jogar videogame e passar o tempo assistindo a vídeos sobre tecnologia. Ele gosta de aprender coisas novas, mas prefere quando pode aplicar esse aprendizado em algo prático, como jogos ou projetos de tecnologia.
+Persona 2: Maria Fernanda Costa
 
-Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
-
- > **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes/beneficiários ideais que sua solução almeja.
-
-Para selecionar as imagens de suas personas, utilize o site: https://this-person-does-not-exist.com/pt
+Idade: 15 anos
+Naturalidade: Salvador, BA
+Ocupação: Estudante do ensino médio em uma escola pública
+Atribuições: Estudar, participar de projetos escolares e ajudar seus pais em casa.
+Motivações: Maria tem interesse em aprender programação para se preparar para o futuro. Ela sabe que a área de tecnologia oferece boas oportunidades de emprego e quer desenvolver habilidades que a ajudem a ingressar em uma universidade de tecnologia.
+Frustrações: Maria sente que a escola não oferece oportunidades suficientes para o aprendizado de tecnologia. Além disso, ela tem pouca experiência com programação, o que a deixa insegura para começar a aprender.
+Hobbies e História: Maria gosta de ler e está sempre pesquisando sobre carreiras e oportunidades educacionais. Seu sonho é ser a primeira pessoa de sua família a ingressar em uma universidade e trabalhar na área de tecnologia.
 
 ## Histórias de Usuários
 
