@@ -16,22 +16,14 @@ inclusão digital.
 
 ## Objetivos
 
-Objetivo Geral:
+Objetivo Geral :
 Capacitar crianças e adolescentes de escolas públicas com conhecimentos básicos de programação, promovendo a inclusão digital e preparando-os para os desafios do futuro.
 
-Objetivos Específicos:
+Objetivos Específicos :
 
 Ensinar os conceitos básicos de lógica de programação e algoritmos de maneiras acessíveis e interativas para os diferentes perfis de alunos das escolas públicas.
 Desenvolver atividades práticas que envolvem a criação de pequenos projetos em linguagens de programação voltadas para iniciantes, como Scratch e Python, conforme orientações de Campos (2019).
 Estimular o pensamento lógico e a resolução de problemas, incentivando o desenvolvimento de habilidades colaborativas e individuais, conforme estudos de Moura (2020).
-
-Justificativa
-A escolha do tema de ensino de programação para crianças e adolescentes de escolas públicas justifica a importância crescente da tecnologia na sociedade moderna. Segundo a UNESCO (2022), apenas uma pequena fração dos jovens em países em desenvolvimento tem acesso adequado à educação em tecnologia. Este projeto visa colmatar essa lacuna, oferecendo educação pública tecnológica de qualidade, especialmente em escolas, que muitas vezes carecem de recursos nesse campo (SANTOS, 2021).
-
-Estudos mostram que o aprendizado de programação desde cedo pode melhorar significativamente o desempenho escolar em disciplinas como matemática e ciências, além de promover habilidades essenciais para o século XXI, como pensamento crítico e autonomia (VALENTE, 2017). Ao capacitar esses jovens com habilidades tecnológicas, estamos contribuindo para a formação de uma geração mais preparada para os desafios do mercado de trabalho e da cidadania digital.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
@@ -42,11 +34,3 @@ Estudos mostram que o aprendizado de programação desde cedo pode melhorar sign
 ## Público-Alvo
 
 O público-alvo do projeto são crianças e adolescentes entre 10 e 17 anos e alunos de escolas públicas ou particulares. Essas faixas etárias são particularmente receptivas ao aprendizado de novas habilidades e, ao serem expostas ao ensino de programação, têm a oportunidade de desenvolver competências essenciais, como resolução de problemas, pensamento crítico e criatividade. A inclusão digital é fundamental para preparar esses jovens para o futuro, conforme sugerido por autores como Valente (2017), que destaca a importância da tecnologia na formação educacional.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
