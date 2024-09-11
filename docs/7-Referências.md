@@ -1,6 +1,5 @@
 # Referências
 
-Referências
 [1] CAMPOS, Fernanda. Educação e Tecnologia: Ferramentas digitais no ensino básico. São Paulo: Editora Tecnoeduc, 2019.
 
 [2] MOURA, João. Lógica de Programação: Introdução e práticas para o ensino básico. Rio de Janeiro: Editora Alpha, 2020.
