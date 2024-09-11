@@ -8,9 +8,11 @@ sadfsaldçfjkas
 sdajkfaçldfjsaç
 
 ## Problema
-Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
-
-O grupo pode optar ainda, por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+A demanda crescente por habilidades tecnológicas no mercado de trabalho e na sociedade não é atendida por uma oferta adequada 
+de educação em tecnologia nas escolas públicas brasileiras. Muitos jovens em idade escolar não possuem contato com programação ou
+sequer têm noções básicas de raciocínio lógico, o que os coloca em desvantagem frente ao mundo digital. A falta de acesso a esse
+tipo de conhecimento também limita suas oportunidades futuras de emprego e desenvolvimento pessoal, criando uma lacuna de
+inclusão digital.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
