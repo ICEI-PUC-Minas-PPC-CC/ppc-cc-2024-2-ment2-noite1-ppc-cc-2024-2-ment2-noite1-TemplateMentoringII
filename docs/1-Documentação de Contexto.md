@@ -9,18 +9,12 @@ sequer têm noções básicas de raciocínio lógico, o que os coloca em desvant
 tipo de conhecimento também limita suas oportunidades futuras de emprego e desenvolvimento pessoal, criando uma lacuna de
 inclusão digital.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-
 ## Objetivos
 
 Objetivo Geral :
 Capacitar crianças e adolescentes de escolas públicas com conhecimentos básicos de programação, promovendo a inclusão digital e preparando-os para os desafios do futuro.
 
 Objetivos Específicos :
-
 Ensinar os conceitos básicos de lógica de programação e algoritmos de maneiras acessíveis e interativas para os diferentes perfis de alunos das escolas públicas.
 Desenvolver atividades práticas que envolvem a criação de pequenos projetos em linguagens de programação voltadas para iniciantes, como Scratch e Python, conforme orientações de Campos (2019).
 Estimular o pensamento lógico e a resolução de problemas, incentivando o desenvolvimento de habilidades colaborativas e individuais, conforme estudos de Moura (2020).
