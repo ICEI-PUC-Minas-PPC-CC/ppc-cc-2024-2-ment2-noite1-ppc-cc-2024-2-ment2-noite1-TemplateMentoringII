@@ -1,6 +1,7 @@
 <span style="color:red">Cronograma<a href=""> 
 
-#Detalhamento Preliminar
+##Detalhamento Preliminar
+
 Para o projeto "Programadores Kids", planejamos a realização de três encontros de 50 minutos cada, focados no ensino de programação através da criação de jogos utilizando a plataforma GDevelop. As atividades serão realizadas na comunidade, com a presença de monitores capacitados para orientar as crianças e adolescentes durante o aprendizado. Abaixo está o cronograma preliminar das atividades a serem realizadas em cada encontro:
 
 #Cronograma Preliminar
