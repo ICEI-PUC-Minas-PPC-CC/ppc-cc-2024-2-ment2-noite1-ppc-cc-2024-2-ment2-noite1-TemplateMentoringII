@@ -44,3 +44,15 @@ Segue abaixo as três personas do projeto, e as ideias que podemos desenvolver a
 |João Carlos | Uma maneira para poder registrar minha evolução diária na fisioterapia  | Para monitorar minha evolução. |
 |João Carlos | Uma maneira da minha família se comunicar com a instituição | Para ficarem antenados com meus diagnósticos e melhorias |
 
+|**Ana Luiza**|           |                             | 
+|-------------------|-----------|-----------------------------|
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-adefip_2/tree/main/src/ana_luiza.png" width="200" height="200"/>|**Idade:** 35 anos. **Profissão:** Terapeuta ocupacional. **Especialidade:** Reabilitação de crianças com paralisia cerebral. | **Objetivo:** Melhorar a eficiência no atendimento terapêutico, utilizando ferramentas tecnológicas que otimizem o desenvolvimento motor e cognitivo das crianças. |
+|**Desafios:** Sobrecarga de trabalho, dificuldade em personalizar o tratamento devido ao volume de pacientes e falta de ferramentas tecnológicas que engajem as crianças. | **Atividades Diárias:** Trabalha com várias crianças diariamente, lidando com diferentes graus de paralisia cerebral. Utiliza recursos tradicionais de terapia e comunicação direta com famílias e equipe multidisciplinar. |
+
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|--------------------|------------------------------------|----------------------------------------|
+|Ana Luiza | Um sistema para personalizar as atividades de cada criança de forma eficiente | Para otimizar o tempo e aumentar a qualidade do atendimento. |
+|Ana Luiza | Uma maneira de monitorar o progresso das crianças entre as sessões de forma remota | Para ajustar as terapias conforme a necessidade de cada paciente. |
+|Ana Luiza | Um meio de engajar mais as crianças durante as atividades terapêuticas | Para tornar o processo de reabilitação mais interessante e divertido para elas. |
+|Ana Luiza | Uma forma de se comunicar melhor com os pais sobre o progresso dos filhos | Para garantir que o acompanhamento seja contínuo mesmo fora do ambiente clínico. |
+
