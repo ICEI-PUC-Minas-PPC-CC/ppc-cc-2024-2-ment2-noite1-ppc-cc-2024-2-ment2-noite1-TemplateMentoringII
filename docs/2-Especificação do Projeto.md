@@ -8,7 +8,7 @@ Segue abaixo as três personas do projeto, e as ideias que podemos desenvolver a
 
 |**Felipe de Souza**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-adefip_2/tree/main/src/felipe.png" width="200" height="200"/>|**Idade:** 12 anos. **Naturalidade:** Águas da Prata, SP. | **Condição:** Amputação (Amputação de membro inferior devido a um acidente).       |**Objetivos:** Recuperar a autoestima e parte da mobilidade, a fim de se adaptar a sua nova realidade
+<img src="./img/felipe.png" width="200" height="200"/>|**Idade:** 12 anos. **Naturalidade:** Águas da Prata, SP. | **Condição:** Amputação (Amputação de membro inferior devido a um acidente).       |**Objetivos:** Recuperar a autoestima e parte da mobilidade, a fim de se adaptar a sua nova realidade
 |**Desafios:** Reintegração nas atividades do dia a dia.  |**Cuidadores:** Familiares, amigos e equipe multidisciplinar que trabalham para oferecer suporte emocional e físico.  |
 
 
@@ -21,7 +21,7 @@ Segue abaixo as três personas do projeto, e as ideias que podemos desenvolver a
 
 |**Caio Almeida**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-adefip_2/tree/main/src/caio.png" width="200" height="200"/>|**Idade:** 18 anos. **Naturalidade:** Poços de Caldas, MG. | **Condição:** Síndrome de Down.  |**Objetivos:** Completar o ensino médio e conseguir um emprego que valorize suas habilidades.
+<img src="./img/caio.png" width="200" height="200"/>|**Idade:** 18 anos. **Naturalidade:** Poços de Caldas, MG. | **Condição:** Síndrome de Down.  |**Objetivos:** Completar o ensino médio e conseguir um emprego que valorize suas habilidades.
 |**Desafios:** Inclusão no mercado de trabalho.  |**Personalidade:** Alegre, comunicativo, e determinado a conquistar seu espaço na sociedade, Caio é muito sociável e gosta de estar rodeado de amigos e família. |
 
 
@@ -34,7 +34,7 @@ Segue abaixo as três personas do projeto, e as ideias que podemos desenvolver a
 
 |**João Carlos**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-2-ment2-noite1-adefip_2/tree/main/src/joao.png" width="200" height="200"/>|**Idade:** 70 anos. **Naturalidade:** Pouso Alegre, MG. | **Condição:** Lesão medular adquirida após queda.  |**Objetivos:** Recuperar a maior independência possível e adaptar-se à nova realidade de vida com a lesão.
+<img src="./img/joao.png" width="200" height="200"/>|**Idade:** 70 anos. **Naturalidade:** Pouso Alegre, MG. | **Condição:** Lesão medular adquirida após queda.  |**Objetivos:** Recuperar a maior independência possível e adaptar-se à nova realidade de vida com a lesão.
 |**Desafios:** Perda de mobilidade, necessidade de adaptação e luto pela perda da antiga autonomia.  |**Cuidadores:** Esposa e filhos que assumem papel central no cuidado diário, com apoio de profissionais de saúde. |
 
 
