@@ -23,6 +23,8 @@ Estimular o pensamento lógico e a resolução de problemas, incentivando o dese
 
 A escolha do tema de ensino de programação para crianças e adolescentes de escolas públicas se justifica pela importância crescente da tecnologia na sociedade moderna. Segundo a UNESCO (2022), apenas uma pequena fração dos jovens em países em desenvolvimento tem acesso adequado à educação em tecnologia. Este projeto visa combater essa lacuna, oferecendo educação tecnológica de qualidade, especialmente em escolas públicas, que muitas vezes carecem de recursos nesse campo (SANTOS, 2021).
 
+Além disso, há um déficit significativo de profissionais na área de tecnologia. De acordo com dados da Associação Brasileira das Empresas de Tecnologia da Informação e Comunicação (Brasscom, 2021), o Brasil precisará formar cerca de 420 mil novos profissionais em tecnologia até 2024 para suprir a demanda do mercado. No entanto, o número atual de formandos em cursos de tecnologia está muito abaixo desse valor. O ensino de programação desde cedo pode contribuir para a formação de futuros profissionais capacitados, ajudando a reduzir essa lacuna e preparando uma nova geração para as oportunidades de emprego no setor.
+
 Estudos mostram que o aprendizado de programação desde cedo pode melhorar significativamente o desempenho escolar em disciplinas como matemática e ciências, além de promover habilidades essenciais para o século XXI, como pensamento crítico e autonomia (VALENTE, 2017). Ao capacitar esses jovens com habilidades tecnológicas, estamos contribuindo para a formação de uma geração mais preparada para os desafios do mercado de trabalho e da cidadania digital.
 
 ## Público-Alvo
