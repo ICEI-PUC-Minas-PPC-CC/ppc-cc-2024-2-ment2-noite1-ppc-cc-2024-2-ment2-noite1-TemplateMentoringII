@@ -1,3 +1,7 @@
+Escola Municipal Sergio de Freitas Pacheco
+Dias: Quartas-feiras, às 7:00 hs
+Disponibilidade dos integrantes da equipe: Todos estão disponíveis para comparecer à escola nas quartas-feiras no referido horário. 
+
 Cronograma
 
 Detalhamento Preliminar
