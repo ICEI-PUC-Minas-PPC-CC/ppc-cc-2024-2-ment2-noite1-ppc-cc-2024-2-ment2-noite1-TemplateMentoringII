@@ -31,7 +31,7 @@ suas vidas e na capacidade de atendimento da ADEFIP (ADEFIP, 2024).
 
 ## Justificativa
 
-A implementação de soluções tecnológicas na ADEFIP é crucial, pois melhora a qualidade e a eficiência no atendimento, além de personalizar o tratamento. No Brasil, com o registro de cerca de 30 mil novos casos de paralisia cerebral por ano, é fundamental o uso de tecnologias que promovam a inclusão digital e o desenvolvimento cognitivo de pacientes com essas condições. Intervenções precoces e multidisciplinares são comprovadamente eficazes para garantir uma melhor qualidade de vida (BEM PARANÁ, 2023; PEQUENO PRÍNCIPE, 2023). Assim, investir em tecnologia não só beneficiará os pacientes, mas também capacitará a equipe a se manter atualizada em um cenário cada vez mais digital.
+A implementação de soluções tecnológicas na ADEFIP é essencial para elevar a qualidade, eficiência e personalização dos serviços oferecidos à população com deficiência física. No Brasil, com cerca de 30 mil novos casos de paralisia cerebral registrados anualmente, a demanda por intervenções precoces e multidisciplinares cresce cada vez mais. Estudos indicam que o uso de tecnologias inovadoras facilita o desenvolvimento cognitivo e a inclusão digital desses pacientes, ampliando suas possibilidades de reabilitação e inclusão social (BEM PARANÁ, 2023; PEQUENO PRÍNCIPE, 2023). Ao investir em tecnologia, a ADEFIP poderá oferecer um atendimento mais eficiente e especializado, fortalecendo também a capacitação de seus profissionais para atuar de forma integrada em um contexto digital, promovendo o desenvolvimento integral dos pacientes e respondendo às suas necessidades de maneira personalizada e transformadora.
 
 ## Público-Alvo
 
