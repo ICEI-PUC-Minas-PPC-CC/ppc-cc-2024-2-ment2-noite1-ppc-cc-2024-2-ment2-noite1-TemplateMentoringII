@@ -11,6 +11,7 @@
 - Otávio Araújo
 - Rafael Milani
 - Caetano Florencio
+- Carlos Leonel
 
 ## Professor
 
