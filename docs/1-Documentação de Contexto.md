@@ -1,43 +1,42 @@
 # Introdução
 
-Texto **descritivo** com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Há quase 40 anos a Associação dos Deficientes Físicos de Poços de Caldas (ADEFIP), 
+tem-se dedicado a transformar vidas de pessoas com deficiência colaborando de forma gratuita 
+nas áreas de reabilitação multidisciplinar, inclusão escolar, desenvolvimento de potências e 
+inclusão profissional. Com mais de 80 colaboradores voluntários, eles se esforçam para 
+realizarem cerca de 5800 atendimentos mensais, atendendo bebês, crianças, jovens, adultos e 
+idosos, acreditando sempre no potencial do ser humano. Com uma média de 318 atendimentos 
+diários, observou-se a demanda por tecnologias em todas as áreas da instituição para aumentar 
+a qualidade dos serviços oferecidos no local (ADEFIP, 2023). O objetivo deste tranalho é desenvolver e 
+implementar soluções tecnológicas inovadoras que possam ser integradas às diversas áreas de 
+atuação da ADEFIP. 
 
 ## Problema
-Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
 
-O grupo pode optar ainda, por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Devido a alta demanda de atendimentos diários, a instituição enfrenta 
+desafios para manter e melhorar a qualidade dos serviços oferecidos. Identificou-se a 
+necessidade de implementar soluções tecnológicas em todas as suas áreas de atuação para 
+otimizar os processos e elevar o padrão de atendimento.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho que será realizado pelo grupo indicando qual é o objetivo geral que se busca atingir para solucionar/minimizar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Desenvolver e implementar soluções tecnológicas inovadoras que possam ser integradas 
+às diversas áreas de atuação da ADEFIP. Estas soluções visam aprimorar a eficiência e a 
+qualidade dos atendimentos nas especialidades oferecidas, incluindo assistência social, 
+medicina (neurologia, ortopedia e fisiatria), enfermagem, terapia ocupacional, fisioterapia, 
+fonoaudiologia, nutrição, pedagogia, psicologia, arteterapia, musicoterapia e educação física. 
+O foco é utilizar a tecnologia para melhorar a reabilitação e o desenvolvimento das pessoas com 
+deficiência atendidas pela instituição, contribuindo assim para uma transformação positiva em 
+suas vidas e na capacidade de atendimento da ADEFIP (ADEFIP, 2024). 
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com o tema escolhido. Indique as razões pelas quais vocês escolheram seus objetivos específicos. Aproveite para "quantificar" o problema. Utilize dados, pesquisas etc que justifiquem porque é importante resolver/minimizar o problema. 
-
-O grupo de trabalho pode também fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo, mas não se esqueça, de citar em seu texto todas as referências que forem utilizadas seguindo os padrões da ABNT e também, de incluir tais referências no documento das Referências bibliográficas.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A implementação de soluções tecnológicas na ADEFIP é essencial para elevar a qualidade, eficiência e personalização dos serviços oferecidos à população com deficiência física. No Brasil, com cerca de 30 mil novos casos de paralisia cerebral registrados anualmente, a demanda por intervenções precoces e multidisciplinares cresce cada vez mais. Estudos indicam que o uso de tecnologias inovadoras facilita o desenvolvimento cognitivo e a inclusão digital desses pacientes, ampliando suas possibilidades de reabilitação e inclusão social (BEM PARANÁ, 2023; PEQUENO PRÍNCIPE, 2023). Ao investir em tecnologia, a ADEFIP poderá oferecer um atendimento mais eficiente e especializado, fortalecendo também a capacitação de seus profissionais para atuar de forma integrada em um contexto digital, promovendo o desenvolvimento integral dos pacientes e respondendo às suas necessidades de maneira personalizada e transformadora.
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação ou se beneficiarão da ação extensionista, indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes/beneficiados ou quais serão os papéis dos usuários na aplicação/ação extensionista. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
+Bebês, crianças, jovens, adultos e idosos com algum tipo de deficiência física atendidas 
+pela ADEFIP, tais como: síndromes genéticas, amputação, doenças neuromusculares, 
+mielomeningocele, lesão medular, lesão encefálica adquirida, encefalopatia crônica não 
+progressiva (ADEFIP, 2024). 
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)

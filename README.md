@@ -1,4 +1,5 @@
-# TÍTULO DO PROJETO
+# Projeto Adefip 2
+## Associação dos Deficientes Físicos de Poços de Caldas
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: NOME DA DISCIPLINA`
@@ -6,14 +7,15 @@
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Lucas Schimidt
+- Otávio Araújo
+- Rafael Milani
+- Caetano Florencio
+- Carlos Leonel
 
 ## Professor
 
-- Mestre Yoda
+- Luciana
 
 # Documentação
 

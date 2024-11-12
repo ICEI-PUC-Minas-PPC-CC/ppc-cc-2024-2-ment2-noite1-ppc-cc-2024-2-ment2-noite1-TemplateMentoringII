@@ -1,0 +1,234 @@
+@import url(comico.css);
+
+@font-face {
+    font-family: 'Comico-Regular';
+    src: url('assets/font/fonts/Comico-Regular.woff2') format('woff2'),
+         url('assets/font/fonts/Comico-Regular.woff') format('woff'),
+         url('assets/font/fonts/Comico-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-display: swap;
+    font-style: normal;
+  }
+
+  body{
+    background-color: #FFF8C2;
+  }
+
+a{
+  text-decoration: none;
+  color: black;   
+}
+
+  .bi-arrow-left{
+    position: fixed;
+    top: 1dvh;
+    left: 1dvh;
+    font-size: 2.3rem;  
+  }
+
+  .settings{
+    text-decoration: none;
+    color: black;
+  }
+  
+  .bi-gear{
+    position: fixed;
+    top: 1dvh;
+    right: 1dvh;
+    font-size: 2.3rem;
+  }
+
+  .settings:hover .bi-gear{
+    animation: spin 5s linear infinite;
+  }
+
+  .back:hover .bi-arrow-left{
+    animation: goback 1.5s linear infinite;
+  }
+
+  @keyframes spin{
+    0%{
+      transform: rotate(0deg);
+    }
+  
+    100%{
+      transform: rotate(360deg);
+    }
+  }
+
+  @keyframes goback{
+    0%{
+        transform: translate(0);
+    }
+
+    50%{
+        transform: translate(10px);
+    }
+
+    100%{
+        transform: translate(0);
+    }
+  }
+
+  @keyframes goforward{
+    0%{
+        transform: translate(0);
+    }
+
+    50%{
+        transform: translate(-10px);
+    }
+
+    100%{
+        transform: translate(0);
+    }
+  }
+  
+  .title{
+    font-family: 'Comico-Regular';
+    font-size: 2rem;
+    top: .5dvh;
+    display: flex;
+    justify-content: center;
+  }
+
+  .title .selecione{
+    letter-spacing: -0.875rem;
+    padding-right: 4dvh;
+  }
+
+  .title .um{
+    letter-spacing: -0.875rem;
+    padding-right: 4dvh;   
+  }
+
+  .title .jogo{
+    letter-spacing: -0.875rem;
+  }
+
+.jogos{
+  margin: auto;
+  width: 50%;
+  padding: 3dvh;
+  text-align: center;
+}
+
+.previous{
+  text-decoration: none;
+  color: black;
+}
+
+.next{
+  text-decoration: none;
+  color: black;
+}
+
+  .bi-chevron-left{
+    position: fixed;
+    top: 45dvh;
+    left: 5dvh;
+    font-size: 5rem;
+    padding-right: 30dvh;
+  }
+
+  .bi-chevron-right{
+    position: fixed;
+    top: 45dvh;
+    right: 5dvh;
+    font-size: 5rem;
+    padding-left: 30dvh;
+  }
+
+  .bi-chevron-left:hover{
+    animation: goback 1.5s linear infinite;
+  }
+
+  .bi-chevron-right:hover{
+    animation: goforward 1.5s linear infinite;    
+  }
+
+  .image{
+    width: 80%;
+    border-radius: 2%;    
+    border: .3dvh solid black;
+  }
+
+.buttons{
+  margin: auto;
+  width: 50%;
+  padding: 3dvh;
+  text-align: center;
+}
+
+  .jogar {
+    font-family: 'Comico-Regular';
+    background-color: #ffffff;
+    letter-spacing: -0.3rem;
+    border: 0;
+    color: #242424;
+    border-radius: 0.5em;
+    font-size: 2rem;
+    padding: 0.5em 1.8em;
+    font-weight: 600;
+    text-shadow: 0 0.0625em 0 #fff;
+    box-shadow: inset 0 0.0625em 0 0 #f4f4f4, 0 0.0625em 0 0 #efefef,
+      0 0.125em 0 0 #ececec, 0 0.25em 0 0 #e0e0e0, 0 0.3125em 0 0 #dedede,
+      0 0.375em 0 0 #dcdcdc, 0 0.425em 0 0 #cacaca, 0 0.425em 0.5em 0 #cecece;
+    transition: 0.35s ease;
+    cursor: pointer;
+    margin-right: 3dvh;
+  }
+  
+  .jogar:active {
+    translate: 0 0.225em;
+    box-shadow: inset 0 0.03em 0 0 #f4f4f4, 0 0.03em 0 0 #efefef,
+      0 0.0625em 0 0 #ececec, 0 0.125em 0 0 #e0e0e0, 0 0.125em 0 0 #dedede,
+      0 0.2em 0 0 #dcdcdc, 0 0.225em 0 0 #cacaca, 0 0.225em 0.375em 0 #cecece;
+  }
+
+  .info {
+    font-family: 'Comico-Regular';
+    background-color: #ffffff;
+    letter-spacing: -0.3rem;
+    border: 0;
+    color: #242424;
+    border-radius: 0.5em;
+    font-size: 2rem;
+    padding: 0.5em 1.8em;
+    font-weight: 600;
+    text-shadow: 0 0.0625em 0 #fff;
+    box-shadow: inset 0 0.0625em 0 0 #f4f4f4, 0 0.0625em 0 0 #efefef,
+      0 0.125em 0 0 #ececec, 0 0.25em 0 0 #e0e0e0, 0 0.3125em 0 0 #dedede,
+      0 0.375em 0 0 #dcdcdc, 0 0.425em 0 0 #cacaca, 0 0.425em 0.5em 0 #cecece;
+    transition: 0.35s ease;
+    cursor: pointer;
+  }
+  
+  .info:active {
+    translate: 0 0.225em;
+    box-shadow: inset 0 0.03em 0 0 #f4f4f4, 0 0.03em 0 0 #efefef,
+      0 0.0625em 0 0 #ececec, 0 0.125em 0 0 #e0e0e0, 0 0.125em 0 0 #dedede,
+      0 0.2em 0 0 #dcdcdc, 0 0.225em 0 0 #cacaca, 0 0.225em 0.375em 0 #cecece;
+  }
+
+  .nomej{
+    font-family: 'Comico-Regular';
+    font-size: 2.5rem;
+    top: .5dvh;
+    display: flex;
+    justify-content: center;
+  }
+
+  .nomej .som{
+    letter-spacing: -0.575rem;
+    padding-right: 3dvh;
+  }
+
+  .nomej .dos{
+    letter-spacing: -0.575rem;
+    padding-right: 3dvh;
+  }
+
+  .nomej .animais{
+    letter-spacing: -0.575rem;
+  }
