@@ -27,3 +27,29 @@ As foto mostra nossa apresentaação em um datashow no quadro.
 Proxima aula sera no dia 21 / 11 / 2024 - Quinta-Feira. 
 
 
+Atualização.
+Segui atualizações em imagens. Mas atualizada.
+Turma não realizou atividade em que planejamos para eles fazerem em casa. Mas continuamos com as atividades.
+
+
+![8 (11)](https://github.com/user-attachments/assets/4a009c5e-6d7a-45b7-898f-ab44f2b1a8a1)
+![8 (10)](https://github.com/user-attachments/assets/3de47a08-392a-44d0-a190-457eb06d5201)
+![8 (9)](https://github.com/user-attachments/assets/e958cf35-63eb-40ad-9246-4e9b5c3852c0)
+![8 (8)](https://github.com/user-attachments/assets/3655daaf-c458-43c7-98eb-254172b471ce)
+![8 (7)](https://github.com/user-attachments/assets/f9f92316-3aa6-47f7-8341-f62116f46950)
+![8 (6)](https://github.com/user-attachments/assets/485efff3-2a87-47dc-9b84-ff6a4b953c51)
+![8 (5)](https://github.com/user-attachments/assets/2e83d7f0-3766-4f13-9beb-88d9a2bd6a1c)
+![8 (4)](https://github.com/user-attachments/assets/19dda54e-5562-46aa-ab7f-2b73c9d4ab62)
+![8 (3)](https://github.com/user-attachments/assets/3038e711-e1c2-4d8a-92b6-6c8d30eecc57)
+![8 (2)](https://github.com/user-attachments/assets/01118042-b656-49a4-aebd-cf4e9c481440)
+![8 (1)](https://github.com/user-attachments/assets/32f82063-3dde-4a3e-a8b0-4177031ea72e)
+
+Segui videos feito em sala.
+
+
+
+https://github.com/user-attachments/assets/9542f0b1-5bdf-4b0a-8b6f-c1eeaa12da7f
+
+
+
+
