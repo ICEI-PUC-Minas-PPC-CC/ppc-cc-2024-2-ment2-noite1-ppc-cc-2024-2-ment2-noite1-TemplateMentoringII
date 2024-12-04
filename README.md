@@ -9,7 +9,7 @@
 - Vinicius Azevedo de Avila
 - Leonardo 
 - Pedro
-- Rômulo
+- Rômulo Carvalho Reis
 
 ## Professor
 
