@@ -51,5 +51,23 @@ Segui videos feito em sala.
 https://github.com/user-attachments/assets/9542f0b1-5bdf-4b0a-8b6f-c1eeaa12da7f
 
 
+Conforme data acima no dia 21 de Novembro de Dois Mil e Vinte Quatro, realizamos a atividade finalizando o Mini Curso sobre Gdevelop. 
+Segui algumas fotos do dia. 
+
+![3 (2)](https://github.com/user-attachments/assets/db0f5349-cd6c-4102-9ab0-25cf1e2e1da3)
+![3 (1)](https://github.com/user-attachments/assets/2fb7b551-ae5a-4aa5-95bf-5fa6b3a680c4)
+![3 (3)](https://github.com/user-attachments/assets/84d67609-a2ef-4c0e-9ef2-e4c7c623dd35)
+![WhatsApp Image 2024-12-03 at 20 50 45 (1)](https://github.com/user-attachments/assets/841b7fb1-3356-4f6e-9b5f-75d84df9e864)
+![WhatsApp Image 2024-12-03 at 20 50 45](https://github.com/user-attachments/assets/d1e8d052-2568-4d8b-86b0-f2d53eb09c68)
+
+Fotos seguidas do atual dia. 
+
+Engajamento: A turma demonstrou grande interesse e comprometimento, com todos os alunos participando ativamente das atividades.
+Projetos apresentados: Vários projetos focados na propria pagina do Gdevolop. Tutoriais prontos pelo proprio site. 
+Desenvolvimento de habilidades: Os alunos aprimoraram suas competências em gestão, liderança e trabalho em equipe, e agora estão mais conscientes do papel que podem desempenhar em suas comunidades e provaveis trabalhos para um futuro. 
+
+
+
+
 
 
