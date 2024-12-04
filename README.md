@@ -7,8 +7,8 @@
 ## Integrantes
 
 - Vinicius Azevedo de Avila
-- Leonardo 
-- Pedro
+- Leonardo Elias Figueiredo
+- Pedro Henrique Franco da Silva Sarto
 - Rômulo Carvalho Reis
 
 ## Professor
