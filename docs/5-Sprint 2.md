@@ -26,7 +26,6 @@ As foto mostra nossa apresentaação em um datashow no quadro.
 
 Proxima aula sera no dia 21 / 11 / 2024 - Quinta-Feira. 
 
-
 Atualização.
 Segui atualizações em imagens. Mas atualizada.
 Turma não realizou atividade em que planejamos para eles fazerem em casa. Mas continuamos com as atividades.
@@ -62,11 +61,15 @@ Segui algumas fotos do dia.
 
 Fotos seguidas do atual dia. 
 
-Engajamento: A turma demonstrou grande interesse e comprometimento, com todos os alunos participando ativamente das atividades.
+#  Engajamento: A turma demonstrou grande interesse e comprometimento, com todos os alunos participando ativamente das atividades.
 Projetos apresentados: Vários projetos focados na propria pagina do Gdevolop. Tutoriais prontos pelo proprio site. 
-Desenvolvimento de habilidades: Os alunos aprimoraram suas competências em gestão, liderança e trabalho em equipe, e agora estão mais conscientes do papel que podem desempenhar em suas comunidades e provaveis trabalhos para um futuro. 
+#  Desenvolvimento de habilidades: Os alunos aprimoraram suas competências em gestão, liderança e trabalho em equipe, e agora estão mais conscientes do papel que podem desempenhar em suas comunidades e provaveis trabalhos para um futuro. 
 
-Presença dos integrantes no Curso.
+#  ODSs
+Estamos promovendo a oportunidade de aprendizado de um conteúdo de interesse dos estudantes, contribuindo para engajar e motivar o processo educativo. Além disso, compreendemos as dificuldades enfrentadas pelos professores em ministrar conteúdos com qualidade, considerando limitações de recursos, carga de trabalho e acesso a metodologias inovadoras. Por isso, buscamos oferecer apoio pedagógico, ferramentas modernas e materiais adaptados às necessidades atuais, visando criar um ambiente de aprendizado inclusivo, dinâmico e significativo.
+Nosso objetivo é garantir que tanto estudantes quanto educadores tenham condições de alcançar o pleno desenvolvimento de suas capacidades, promovendo uma educação transformadora e alinhada com as metas de desenvolvimento sustentável, especialmente no que tange à igualdade de oportunidades e à formação integral.
+
+#  Presença dos integrantes no Curso.
 1º dia: Vinicius, Leonardo, Pedro, Romulo.
 2º dia: Vinicius, Leonardo, Pedro, Romulo.
 3º dia: Vinicius, Leonardo, Pedro.
