@@ -66,6 +66,13 @@ Engajamento: A turma demonstrou grande interesse e comprometimento, com todos os
 Projetos apresentados: Vários projetos focados na propria pagina do Gdevolop. Tutoriais prontos pelo proprio site. 
 Desenvolvimento de habilidades: Os alunos aprimoraram suas competências em gestão, liderança e trabalho em equipe, e agora estão mais conscientes do papel que podem desempenhar em suas comunidades e provaveis trabalhos para um futuro. 
 
+Presença dos integrantes no Curso.
+1º dia: Vinicius, Leonardo, Pedro, Romulo.
+2º dia: Vinicius, Leonardo, Pedro, Romulo.
+3º dia: Vinicius, Leonardo, Pedro.
+
+
+
 
 
 
