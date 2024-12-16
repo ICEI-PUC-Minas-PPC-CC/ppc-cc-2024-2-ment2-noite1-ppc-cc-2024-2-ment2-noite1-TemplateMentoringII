@@ -78,7 +78,7 @@ Nosso objetivo é garantir que tanto estudantes quanto educadores tenham condiç
 3º dia: Vinicius, Leonardo, Pedro.
 
 # Slide utilizado na oficina.
-Segue os link slide para nossas aulas que foram apresentadas : https://www.canva.com/design/DAGVAAMqVk0/vvSaykkmISsR7AL5HdZuFw/view?utm_content=DAGVAAMqVk0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf793d22c7b
+Segue o link do slide para nossas aulas que foram apresentadas : https://www.canva.com/design/DAGVAAMqVk0/vvSaykkmISsR7AL5HdZuFw/view?utm_content=DAGVAAMqVk0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf793d22c7b
 
 
 
