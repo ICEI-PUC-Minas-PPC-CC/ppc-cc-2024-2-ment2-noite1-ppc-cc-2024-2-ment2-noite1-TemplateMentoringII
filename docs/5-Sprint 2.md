@@ -1,11 +1,36 @@
 # Sprint 2
 
-Objetivo de desenvolvimento sustentável: educação de qualidade.
+# O projeto "Programadores Kids" se alinha com diversos Objetivos de Desenvolvimento Sustentável (ODS) da Agenda 2030 da ONU, promovendo educação de qualidade, redução de desigualdades e outros impactos positivos. Seguem os ODS e subobjetivos relevantes ao projeto:
 
-Justificativa: Estamos promovendo a oportunidade de aprendizado de um conteúdo de interesse dos estudantes, ao mesmo que,
-entendemos algumas das dificuldades de se ministrar um conteúdo com qualidade por parte dos professores.
+# ODS 4: Educação de Qualidade
+Meta 4.1: Garantir que todos os jovens tenham acesso a uma educação básica gratuita, equitativa e de qualidade.
+O projeto contribui para ampliar o acesso a conteúdos educacionais tecnológicos em escolas públicas, promovendo uma base sólida de conhecimentos essenciais para o século XXI.
+Meta 4.4: Aumentar substancialmente o número de jovens e adultos com competências relevantes para o emprego, trabalho decente e empreendedorismo.
+Ensinar programação prepara os jovens para futuras oportunidades no mercado de trabalho.
+Meta 4.5: Eliminar disparidades de gênero e garantir acesso igualitário à educação para grupos vulneráveis.
+O projeto promove a inclusão digital em escolas públicas, beneficiando crianças e adolescentes que, de outra forma, poderiam não ter contato com tecnologia.
 
-Segui algumas imagems do nosso primeiro dia de apresentação e conhecendo a turma do 9º A e B, da Escola Estadual Sérgio de Freitas Pacheco.
+
+# ODS 8: Trabalho Decente e Crescimento Econômico
+Meta 8.6: Reduzir substancialmente a proporção de jovens que não estão empregados, nem participam da educação ou da formação.
+A capacitação tecnológica oferecida pelo projeto abre portas para futuras carreiras na área de TI, combatendo o desemprego juvenil.
+Meta 8.9: Promover o desenvolvimento de habilidades para empregos de qualidade.
+O aprendizado de programação cria uma base para empregos na área de tecnologia, um setor com alta demanda no Brasil e no mundo.
+
+# ODS 10: Redução das Desigualdades
+Meta 10.2: Promover a inclusão social, econômica e política de todos, independentemente de idade, gênero, deficiência, raça, etnia, origem, religião ou status econômico.
+O projeto busca reduzir desigualdades, proporcionando acesso à tecnologia e ao ensino de programação para jovens em escolas públicas, muitas vezes marginalizados em iniciativas educacionais tecnológicas.
+
+
+# ODS 9: Indústria, Inovação e Infraestrutura
+Meta 9.5: Reforçar a pesquisa científica, melhorar as capacidades tecnológicas dos setores industriais e incentivar a inovação.
+Ao ensinar programação e estimular a criatividade, o projeto incentiva a inovação entre os jovens.
+ODS 17: Parcerias e Meios de Implementação
+Meta 17.16: Aumentar as parcerias multissetoriais para o desenvolvimento sustentável, compartilhando conhecimentos e tecnologias.
+O projeto pode fomentar parcerias com empresas, ONGs e instituições de ensino para melhorar o impacto e o alcance.
+Esses objetivos mostram que o "Programadores Kids" tem um impacto direto em questões de inclusão digital, desenvolvimento educacional e capacitação tecnológica, sendo uma ferramenta poderosa para transformar a vida dos jovens e contribuir para o desenvolvimento sustentável.
+
+Segue algumas imagems do nosso primeiro dia de apresentação e conhecendo a turma do 9º A e B, da Escola Estadual Sérgio de Freitas Pacheco.
 
 
 ![1](https://github.com/user-attachments/assets/ebaa2ec1-2d54-4395-8a5b-40a776a67363)
@@ -27,8 +52,8 @@ As foto mostra nossa apresentaação em um datashow no quadro.
 Proxima aula sera no dia 21 / 11 / 2024 - Quinta-Feira. 
 
 Atualização.
-Segui atualizações em imagens. Mas atualizada.
-Turma não realizou atividade em que planejamos para eles fazerem em casa. Mas continuamos com as atividades.
+Segui atualizações em imagens. Mais atualizada.
+Turma não realizou a atividade em que planejamos para eles fazerem em casa. Mas continuamos com as atividades.
 
 
 ![8 (11)](https://github.com/user-attachments/assets/4a009c5e-6d7a-45b7-898f-ab44f2b1a8a1)
@@ -69,7 +94,7 @@ Projetos apresentados: Vários projetos focados na propria pagina do Gdevolop. T
 Nossa oficina contribuiu para a seguinte ODS: 4 Educação de qualidade.
 Objetivo 4. Assegurar a educação inclusiva e equitativa e de qualidade, e promover oportunidades de aprendizagem ao longo da vida para todas e todos.
 
-Estamos promovendo a oportunidade de aprendizado de um conteúdo de interesse dos estudantes, contribuindo para engajar e motivar o processo educativo. Além disso, compreendemos as dificuldades enfrentadas pelos professores em ministrar conteúdos com qualidade, considerando limitações de recursos, carga de trabalho e acesso a metodologias inovadoras. Por isso, buscamos oferecer apoio pedagógico, ferramentas modernas e materiais adaptados às necessidades atuais, visando criar um ambiente de aprendizado inclusivo, dinâmico e significativo.
+Estamos promovendo a oportunidade de aprendizado de um conteúdo de interesse aos estudantes, contribuindo para engajar e motivar o processo educativo. Além disso, compreendemos as dificuldades enfrentadas pelos professores em ministrar conteúdos com qualidade, considerando limitações de recursos, carga de trabalho e acesso a metodologias inovadoras. Por isso, buscamos oferecer apoio pedagógico, ferramentas modernas e materiais adaptados às necessidades atuais, visando criar um ambiente de aprendizado inclusivo, dinâmico e significativo.
 Nosso objetivo é garantir que tanto estudantes quanto educadores tenham condições de alcançar o pleno desenvolvimento de suas capacidades, promovendo uma educação transformadora e alinhada com as metas de desenvolvimento sustentável, especialmente no que tange à igualdade de oportunidades e à formação integral.
 
 #  Presença dos integrantes no Curso.
