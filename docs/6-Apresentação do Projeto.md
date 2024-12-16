@@ -7,5 +7,5 @@ O pitch apresentado deverá contemplar todos os participantes e a gravação dev
 
 Por fim, o vídeo deverá ser colocado em um canal não listado no Youtube, e o link, deverá ser disponibilizado nesta seção.
 
-Segue o link do video como pedido : https://youtu.be/OrMNBp9i2Sg?si=UrW10WLnt0owC7C9
+Segue o link do video como foi pedido : https://youtu.be/OrMNBp9i2Sg?si=UrW10WLnt0owC7C9
 
