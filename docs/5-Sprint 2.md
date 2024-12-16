@@ -66,6 +66,9 @@ Projetos apresentados: Vários projetos focados na propria pagina do Gdevolop. T
 #  Desenvolvimento de habilidades: Os alunos aprimoraram suas competências em gestão, liderança e trabalho em equipe, e agora estão mais conscientes do papel que podem desempenhar em suas comunidades e provaveis trabalhos para um futuro. 
 
 #  ODSs
+Nossa oficina contribuiu para a seguinte ODS: 4 Educação de qualidade.
+Objetivo 4. Assegurar a educação inclusiva e equitativa e de qualidade, e promover oportunidades de aprendizagem ao longo da vida para todas e todos.
+
 Estamos promovendo a oportunidade de aprendizado de um conteúdo de interesse dos estudantes, contribuindo para engajar e motivar o processo educativo. Além disso, compreendemos as dificuldades enfrentadas pelos professores em ministrar conteúdos com qualidade, considerando limitações de recursos, carga de trabalho e acesso a metodologias inovadoras. Por isso, buscamos oferecer apoio pedagógico, ferramentas modernas e materiais adaptados às necessidades atuais, visando criar um ambiente de aprendizado inclusivo, dinâmico e significativo.
 Nosso objetivo é garantir que tanto estudantes quanto educadores tenham condições de alcançar o pleno desenvolvimento de suas capacidades, promovendo uma educação transformadora e alinhada com as metas de desenvolvimento sustentável, especialmente no que tange à igualdade de oportunidades e à formação integral.
 
@@ -74,6 +77,7 @@ Nosso objetivo é garantir que tanto estudantes quanto educadores tenham condiç
 2º dia: Vinicius, Leonardo, Pedro, Romulo.
 3º dia: Vinicius, Leonardo, Pedro.
 
+Segue os link slide para nossas aulas que foram apresentadas : https://www.canva.com/design/DAGVAAMqVk0/vvSaykkmISsR7AL5HdZuFw/view?utm_content=DAGVAAMqVk0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hf793d22c7b
 
 
 
