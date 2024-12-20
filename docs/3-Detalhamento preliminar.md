@@ -1,47 +1,49 @@
-# Detalhamento preliminar
+Escola Municipal Sergio de Freitas Pacheco
+Dias: Quartas-feiras, às 7:00 hs
+Disponibilidade dos integrantes da equipe: Todos estão disponíveis para comparecer à escola nas quartas-feiras no referido horário. 
 
-## Esta seção deverá ser adaptada a proposta do grupo, de forma que:
-## a) Caso seu grupo vá desenvolver uma solução de software, as seções "projeto de interface" e "_user flow_" deverão ser feitas.
-## b) Caso seu grupo vá desenvolver cursos/oficinas na PUC, ou na comunidade, um "cronograma preliminar" das atividades a serem realizadas deverá ser proposto.
-## c) Caso seu grupo tenha realizado alguma pesquisa de campo, entrevistas ou reuniões com representantes do público-alvo, os registros das entrevistas/reuniões, os resultados obtidos e as conclusões encontradas deverão ser descritas aqui.
-## Caso seu trabalho demanda outro tipo de detalhamento preliminar, os artefatos a serem entregues nesta etapa deverão ser alinhados junto com seu(sua) professor(a)
+Cronograma
 
-## Projeto de Interface
+Detalhamento Preliminar
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+Para o projeto "Programadores Kids", planejamos a realização de três encontros de 50 minutos cada, focados no ensino de programação através da criação de jogos utilizando a plataforma GDevelop. As atividades serão realizadas na comunidade, com a presença de monitores capacitados para orientar as crianças e adolescentes durante o aprendizado. Abaixo está o cronograma preliminar das atividades a serem realizadas em cada encontro:
 
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
+Cronograma Preliminar
 
-Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
+#Encontro 1: Introdução ao Desenvolvimento de Jogos com GDevelop
 
-## User Flow
-
-![Exemplo de UserFlow](img/userflow.jpg)
-
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
-
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
-
-## Cronograma preliminar
-
-Neta seção, deverá ser proposto o cronograma de execução das atividades/encontros ou então, de desenvolvimento das demais etapas do projeto.
-Ainda não é necessário incluir, neste momento, o material de apoio a ser utilizado em cada um dos encontros.
-
-|Aula   | Descrição do conteúdo a ser abordado  | Tempo necessário |
-|------|-----------------------------------------|----|
-|1| Introdução à lógica de programação | 30 minutos | 
-|2| Introdução ao funcionamento de um compilador   | 20 minutos |
-
-## Resultados obtidos com pesquisa de campo, reuniões e/ou entrevistas
-
-Nesta seção, deverão ser apresentados os registros das reuniões realizadas com representantes do público-alvo, os gráficos/tabelas com os resultados das pesquisas/entrevistas feitos e também, às conclusões que o grupo pode alcançar por meio destes artefatos.
+Objetivo: Apresentar a plataforma GDevelop e introduzir conceitos básicos de desenvolvimento de jogos.
+Atividades:
+Boas-vindas e apresentação do projeto "Programadores Kids".
+Introdução ao GDevelop: interface, ferramentas e funcionalidades básicas.
+Criação de um jogo simples: movimentação de personagens e interação com o cenário.
+Resultados Esperados:
+Alunos familiarizados com a plataforma GDevelop e criação de um jogo simples com movimentação de personagens.
 
 
+#Encontro 2: Desenvolvimento de Jogos - Aprofundamento
+
+Objetivo: Avançar no desenvolvimento de jogos, explorando interações e lógica de jogo mais complexas.
+Atividades:
+Revisão dos conceitos aprendidos no primeiro encontro.
+Adição de interatividade: criação de coletáveis e pontuação.
+Implementação de obstáculos e regras de vitória/derrota.
+Resultados Esperados:
+Alunos capazes de adicionar interatividade e lógica básica ao jogo, entendendo o conceito de variáveis e condições no desenvolvimento de jogos.
 
 
+#Encontro 3: Finalização e Apresentação dos Jogos Criados
+
+Objetivo: Finalizar o desenvolvimento dos jogos e permitir que os alunos apresentem suas criações.
+Atividades:
+Finalização dos jogos: ajustes finais e inserção de elementos gráficos e sonoros.
+Testes e depuração dos jogos.
+Apresentação dos jogos desenvolvidos por cada grupo.
+Reflexão final e feedback dos monitores.
+Resultados Esperados:
+Jogos finalizados e apresentados pelos alunos, demonstrando a compreensão dos conceitos de programação e desenvolvimento de jogos.
 
 
+Considerações Finais
 
+Esse cronograma preliminar pode ser ajustado de acordo com o progresso dos alunos e o nível de dificuldade enfrentado por eles. A ideia é proporcionar um ambiente de aprendizado dinâmico e interativo, onde os alunos possam explorar suas habilidades criativas e desenvolver um projeto completo ao final dos três encontros.

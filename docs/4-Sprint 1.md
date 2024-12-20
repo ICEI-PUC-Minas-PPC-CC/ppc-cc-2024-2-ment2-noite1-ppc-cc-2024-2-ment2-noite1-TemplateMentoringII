@@ -1,5 +1,9 @@
 # Sprint 1
 
-Nesta seção, deverão ser incluídos todos os artefatos produzidos pertinentes à entrega referente à Sprint 1.
+Segue os slides utilizados durante a apresentação das oficinas. 
 
-O detalhamento do que deverá será entregue, será definido em sala em conjunto com seu(sua) professor(a).
+[Apresentação de Mentoring - Programadores Kids .pdf](https://github.com/user-attachments/files/18087710/Apresentacao.de.Mentoring.-.Programadores.Kids.pdf)
+
+
+Conforme solicitado. 
+

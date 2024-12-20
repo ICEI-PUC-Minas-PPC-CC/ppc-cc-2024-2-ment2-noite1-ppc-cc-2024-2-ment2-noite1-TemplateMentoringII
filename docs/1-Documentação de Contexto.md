@@ -1,43 +1,32 @@
 # Introdução
 
-Texto **descritivo** com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O projeto "Programadores Kids" tem como objetivo ensinar fundamentos de programação para crianças e adolescentes de escolas públicas. O projeto surge em um contexto onde a tecnologia está cada vez mais presente no cotidiano, transformando a forma como as pessoas trabalham, se comunicam e resolvem problemas. Contudo, muitos alunos de escolas públicas ainda não possuem acesso adequado à educação tecnológica, o que limita seu desenvolvimento. Assim, este projeto busca promover a inclusão digital, estimular o raciocínio lógico e capacitar os estudantes para interagir com o mundo digital de maneira ativa, ao invés de serem apenas consumidores de tecnologia.
 
 ## Problema
-Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
-
-O grupo pode optar ainda, por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+A demanda crescente por habilidades tecnológicas no mercado de trabalho e na sociedade não é atendida por uma oferta adequada 
+de educação em tecnologia nas escolas públicas brasileiras. Muitos jovens em idade escolar não possuem contato com programação ou
+sequer têm noções básicas de raciocínio lógico, o que os coloca em desvantagem frente ao mundo digital. A falta de acesso a esse
+tipo de conhecimento também limita suas oportunidades futuras de emprego e desenvolvimento pessoal, criando uma lacuna de
+inclusão digital.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho que será realizado pelo grupo indicando qual é o objetivo geral que se busca atingir para solucionar/minimizar o problema apresentado acima. 
+Objetivo Geral :
+Capacitar crianças e adolescentes de escolas públicas com conhecimentos básicos de programação, promovendo a inclusão digital e preparando-os para os desafios do futuro.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Objetivos Específicos :
+Ensinar os conceitos básicos de lógica de programação e algoritmos de maneiras acessíveis e interativas para os diferentes perfis de alunos das escolas públicas.
+Desenvolver atividades práticas que envolvem a criação de pequenos projetos em linguagens de programação voltadas para iniciantes, como Scratch e Python, conforme orientações de Campos (2019).
+Estimular o pensamento lógico e a resolução de problemas, incentivando o desenvolvimento de habilidades colaborativas e individuais, conforme estudos de Moura (2020).
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com o tema escolhido. Indique as razões pelas quais vocês escolheram seus objetivos específicos. Aproveite para "quantificar" o problema. Utilize dados, pesquisas etc que justifiquem porque é importante resolver/minimizar o problema. 
+A escolha do tema de ensino de programação para crianças e adolescentes de escolas públicas se justifica pela importância crescente da tecnologia na sociedade moderna. Segundo a UNESCO (2022), apenas uma pequena fração dos jovens em países em desenvolvimento tem acesso adequado à educação em tecnologia. Este projeto visa combater essa lacuna, oferecendo educação tecnológica de qualidade, especialmente em escolas públicas, que muitas vezes carecem de recursos nesse campo (SANTOS, 2021).
 
-O grupo de trabalho pode também fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo, mas não se esqueça, de citar em seu texto todas as referências que forem utilizadas seguindo os padrões da ABNT e também, de incluir tais referências no documento das Referências bibliográficas.
+Além disso, há um déficit significativo de profissionais na área de tecnologia. De acordo com dados da Associação Brasileira das Empresas de Tecnologia da Informação e Comunicação (Brasscom, 2021), o Brasil precisará formar cerca de 420 mil novos profissionais em tecnologia até 2024 para suprir a demanda do mercado. No entanto, o número atual de formandos em cursos de tecnologia está muito abaixo desse valor. O ensino de programação desde cedo pode contribuir para a formação de futuros profissionais capacitados, ajudando a reduzir essa lacuna e preparando uma nova geração para as oportunidades de emprego no setor.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Estudos mostram que o aprendizado de programação desde cedo pode melhorar significativamente o desempenho escolar em disciplinas como matemática e ciências, além de promover habilidades essenciais para o século XXI, como pensamento crítico e autonomia (VALENTE, 2017). Ao capacitar esses jovens com habilidades tecnológicas, estamos contribuindo para a formação de uma geração mais preparada para os desafios do mercado de trabalho e da cidadania digital.
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação ou se beneficiarão da ação extensionista, indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes/beneficiados ou quais serão os papéis dos usuários na aplicação/ação extensionista. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+O público-alvo do projeto são crianças e adolescentes entre 10 e 17 anos e alunos de escolas públicas ou particulares. Essas faixas etárias são particularmente receptivas ao aprendizado de novas habilidades e, ao serem expostas ao ensino de programação, têm a oportunidade de desenvolver competências essenciais, como resolução de problemas, pensamento crítico e criatividade. A inclusão digital é fundamental para preparar esses jovens para o futuro, conforme sugerido por autores como Valente (2017), que destaca a importância da tecnologia na formação educacional.

@@ -1,19 +1,19 @@
-# TÍTULO DO PROJETO
+### Programadores Kids 
 
-`PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`20XX - Semestre XX`
+`PUC Poços de Caldas - Ciência da Computação`
+`Disciplina: Mentoring II - Sociedade Digital `
+`2024 - 2º Semestre `
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Vinicius Azevedo de Avila
+- Leonardo Elias Figueiredo
+- Pedro Henrique Franco da Silva Sarto
+- Rômulo Carvalho Reis
 
 ## Professor
 
-- Mestre Yoda
+- Prof Luciana de Nardin
 
 # Documentação
 

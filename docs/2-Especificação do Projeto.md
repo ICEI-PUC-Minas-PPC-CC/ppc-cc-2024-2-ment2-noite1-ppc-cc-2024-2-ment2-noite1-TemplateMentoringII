@@ -1,94 +1,67 @@
+
 # Especificações do Projeto
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
 Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do diagrama de personas (identifiquem, no mínimo, 2 personas), histórias de usuários (identifiquem, no mínimo, 3 histórias de usuários por persona), requisitos funcionais, requisitos não funcionais e artefatos produzidos para levantamento de dados).
 
+
+
 ## Personas
 
-Exemplo:
+Personas
+Persona 1: João Pedro Silva
 
-|**Camila Fiães**|           |                             | 
-|-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 38 anos. **Naturalidade:** Contagem - Minas Gerais. **Ocupação:** Caixa de Supermercado.       |**Atribuições:** gerenciar operações com clientes usando caixas registradoras. 
-|**Motivações:** Deseja organizar e ter fácil acesso aos documentos médicos do seu filho que tem asma.  |**Frustações:** dificuldade para gerenciar a vida profissional e pessoal, pois, além de trabalhar fora, quando chega em casa tem de desempenhar os papeis de mãe, esposa e dona de casa. Ainda, o seu filho de 09 anos tem asma, portanto necessita de tratamento contínuo e atenção redobrada.   |**Hobbies, história:** almeja conseguir conciliar os diferentes papéis que exerce, pois atualmente está se sentindo extremamente sobrecarregada e por isso busca métodos para otimizar o seu tempo e esforço.
+Idade: 12 anos
+Naturalidade: São Paulo, SP
+Ocupação: Estudante do ensino fundamental em uma escola pública
+Atribuições: Participar das atividades escolares e extracurriculares. Responsável por fazer tarefas e aprender novos conteúdos.
+Motivações: João é curioso e gosta de tecnologia, especialmente videogames. Ele quer entender como os jogos são feitos e sonha em criar seus próprios jogos no futuro.
+Frustrações: João tem dificuldade em se concentrar nas aulas mais teóricas, pois acha o conteúdo muito distante do seu interesse por tecnologia. Ele também tem pouco acesso a computadores e Internet em casa, o que limita seu aprendizado.
+Hobbies e História: João adora jogar videogame e passar o tempo assistindo a vídeos sobre tecnologia. Ele gosta de aprender coisas novas, mas prefere quando pode aplicar esse aprendizado em algo prático, como jogos ou projetos de tecnologia.
 
-Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes/beneficiários ideais que sua solução almeja.
+Persona 2: Maria Fernanda Costa
+Idade: 15 anos
+Naturalidade: Salvador, BA
+Ocupação: Estudante do ensino médio em uma escola pública
+Atribuições: Estudar, participar de projetos escolares e ajudar seus pais em casa.
+Motivações: Maria tem interesse em aprender programação para se preparar para o futuro. Ela sabe que a área de tecnologia oferece boas oportunidades de emprego e quer desenvolver habilidades que a ajudem a ingressar em uma universidade de tecnologia.
+Frustrações: Maria sente que a escola não oferece oportunidades suficientes para o aprendizado de tecnologia. Além disso, ela tem pouca experiência com programação, o que a deixa insegura para começar a aprender.
+Hobbies e História: Maria gosta de ler e está sempre pesquisando sobre carreiras e oportunidades educacionais. Seu sonho é ser a primeira pessoa de sua família a ingressar em uma universidade e trabalhar na área de tecnologia.
 
-Para selecionar as imagens de suas personas, utilize o site: https://this-person-does-not-exist.com/pt
+Persona 3: Professor Carlos Alberto
+Idade: 40 anos
+Naturalidade: Rio de Janeiro, RJ
+Ocupação: Professor de Matemática e Ciências em uma escola pública
+Atribuições: Ensinar disciplinas de matemática e ciências para turmas do ensino fundamental e médio. Preparar e aplicar atividades, projetos e avaliações para os alunos.
+Motivações: Carlos é apaixonado por ensinar e acredita que a educação transforma vidas. Ele quer que seus alunos desenvolvam habilidades lógicas e críticas para se tornarem pensadores independentes e bem-sucedidos, tanto no ambiente escolar quanto fora dele.
+Frustrações: Carlos sente dificuldade em ensinar alguns conteúdos, como lógica e resolução de problemas, pois muitos de seus alunos têm pouca ou nenhuma habilidade lógica, o que os impede de compreender conceitos mais abstratos. Ele acredita que a falta de contato com ferramentas tecnológicas e práticas mais dinâmicas agrava esse problema, limitando o desenvolvimento de seus alunos.
+Hobbies e História: Carlos gosta de resolver quebra-cabeças e jogos de raciocínio, e procura sempre inovar em suas aulas para engajar os alunos. Ele está sempre em busca de novas metodologias que possam ajudar seus alunos a melhorar no raciocínio lógico e a se interessar mais pelas disciplinas de exatas.
 
 ## Histórias de Usuários
 
-Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
+Persona 1: João Pedro Silva
+Eu como João Pedro quero aprender a programar através de jogos e atividades interativas para tornar o aprendizado mais divertido e interessante, já que tenho dificuldade em me concentrar em conteúdos muito teóricos e que não estão ligados à tecnologia.
 
-Exemplo:
+Eu como João Pedro preciso de acesso fácil a tutoriais e exemplos práticos de programação para entender como os conceitos aprendidos nas aulas podem ser aplicados na criação de jogos simples, o que ajudaria a desenvolver minhas habilidades lógicas, uma área na qual encontro dificuldades.
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Camila Fiães | Otimizar meu tempo e esforço | Conciliar os diferentes papéis que exerço. |
-|Camila Fiães | Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
+Eu como João Pedro gostaria de ter mais tempo de acesso a computadores na escola para praticar mais a programação, pois em casa eu não tenho computador e sinto que isso limita meu progresso, especialmente no desenvolvimento do raciocínio lógico.
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+Persona 2: Maria Fernanda Costa
+Eu como Maria Fernanda quero aprender a programar para me preparar para futuras oportunidades na área de tecnologia e conseguir ingressar em uma universidade, pois reconheço que isso também pode melhorar meu desempenho em disciplinas como matemática, nas quais tenho dificuldade.
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+Eu como Maria Fernanda preciso de um ambiente seguro e acessível para praticar programação para desenvolver confiança nas minhas habilidades e entender melhor os conceitos de forma prática, já que aprender lógica e programação tem sido um desafio para mim.
 
-## Obs.1: Caso seu grupo vá desenvolver uma solução de software, as seções "requisitos funcionais", "requisitos não funcionais" e "restrições" DEVERÃO ser PREENCHIDAS.
-## Obs.2: Caso seu grupo vá desenvolver algum atividade que demande, uma pesquisa de campo através de questinários, a seção "artefatos para levantamento de dados" DEVERÁ ser PREENCHIDA.
-## Obs.3: Caso seu grupo não vá desenvolver nem uma solução de software e nem uma atividade que demande pesquisa de campo, as seções a seguir DEVERÃO ser REMOVIDAS.
+Eu como Maria Fernanda gostaria de participar de projetos de programação em grupo para melhorar minhas habilidades de trabalho em equipe e aprender com outras pessoas, principalmente em relação ao desenvolvimento do raciocínio lógico, que é uma área em que sinto insegurança.
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+Persona 3: Professor Carlos Alberto
+Eu como Professor Carlos quero utilizar ferramentas interativas para ensinar raciocínio lógico aos meus alunos para melhorar a compreensão deles sobre conceitos de lógica e matemática, já que muitos deles enfrentam dificuldades nessa área, o que afeta diretamente seu desempenho.
 
-### Requisitos Funcionais
+Eu como Professor Carlos preciso de uma plataforma de ensino de programação acessível e prática para ajudar meus alunos a desenvolver habilidades lógicas de maneira gradual e envolvente, o que facilitará o entendimento de conteúdos mais abstratos como álgebra e geometria.
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| O sistema deverá permitir o gerenciamento dos pacientes | ALTA | 
-|RF-002| O sistema deverá exibir todo histórico de atendimento do paciente   | ALTA |
+Eu como Professor Carlos gostaria de participar de treinamentos e capacitações sobre o uso de tecnologia e programação no ensino para conseguir utilizar essas ferramentas de forma eficaz em sala de aula, proporcionando uma experiência de aprendizado mais atrativa e relevante para os alunos, especialmente para aqueles que têm dificuldades com raciocínio lógico.
 
-
-### Requisitos não Funcionais
-
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo | MÉDIA | 
-|RNF-002| o sistema deve processar requisições do usuário em, no máximo, 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 ### Artefatos para levantamento de dados
 
-Nesta seção, caso seu grupo vá realizar algum tipo de levantamento de dados/entrevistas, descreva o(s) artefato(s) produzidos para tal. Também deverá ser descrita qual estratégia será utilizada para este levantamento. Por exemplo: como os questionários serão aplicados? (_in loco_, via disponibilização pela _web_ etc), qual material/estratégia de divulgação será utilizado? 
-
-Não se preocupe em descrever os resultados agora, eles deverão ser descritos apenas na seção "Detalhamento preliminar" (Etapa 03).
